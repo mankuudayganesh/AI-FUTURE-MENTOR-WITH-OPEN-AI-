@@ -1,4 +1,4 @@
-# 🎯 AI Career Mentor - Your Personal Career Guidance Platform
+# 🎯 AI FUTURE MENTER - Your Personal Career Guidance Platform
 
 **Created by: MANKU UDAY GANESH**
 
