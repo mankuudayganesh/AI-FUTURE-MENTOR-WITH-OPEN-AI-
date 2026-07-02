@@ -1,6 +1,6 @@
 # 🎯 AI Career Mentor - Your Personal Career Guidance Platform
 
-**Created by: Hrudai Deepak Bonagiri**
+**Created by: MANKU UDAY GANESH**
 
 ---
 
@@ -1478,5 +1478,6 @@ Happy coding! 🚀
 OPENAI_API_KEY="sk-proj-YOUR_API_KEY_HERE"
 
 
- #   A I - F U T U R E - M E N T O R - W I T H - O P E N - A I -  
+ #   A I - F U T U R E - M E N T O R - W I T H - O P E N - A I - 
+ 
  
