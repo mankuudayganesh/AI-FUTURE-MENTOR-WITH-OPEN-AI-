@@ -1,0 +1,19 @@
+# Environments
+.env
+.venv
+env/
+venv/
+
+# Python cache / compile files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Databases and user uploaded data
+data/chroma_db/
+data/resumes/
+
+# OS specific files
+.DS_Store
+Thumbs.db
